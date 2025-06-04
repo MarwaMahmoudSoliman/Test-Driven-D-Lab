@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mf9foGbRykU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\برنت\\Downloads\\TDD (1)\\ConsoleApp\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\برنت\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.203\\microsoft.net.sdk.compilers.toolset.9.0.203.nupkg.sha512"
+  ],
+  "logs": []
+}
